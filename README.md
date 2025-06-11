@@ -1,2 +1,4 @@
-# PalmPet
-Palm Pet is a game directed by Ralph, written by Chat GPT 4o, and (mostly) all the music was created by Angel (Black_Holes-). This game is a virtual pet game for the Palm Tungsten E2. Since it was programmed and compiled by Chat GPT there are bound to be some errors so please feel free to help fix these by writing in the issues page.
+# Palm Pet v1.0 Source
+Build using PRC-Tools:
+- Run `make` with the provided Makefile
+- Install `PalmPet.prc` on your device or emulator
